@@ -20,5 +20,5 @@ bot = Bot(
     plugins=dict(root="VCPlayBot.modules"),
 )
 
-bot.start()
-run()
+bot.start(RXT MUSIC BOT)
+run(please wait)
